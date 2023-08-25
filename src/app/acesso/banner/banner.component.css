@@ -1,0 +1,12 @@
+img {
+    position: absolute;
+    max-width: fit-content;
+    max-height: fit-content;
+}
+.banner-background {
+    background-image: url("/assets/banner-acesso/fundo.png");
+    height: 602px;
+    width: 379px;
+    padding-top: 91px;
+    padding-left: 116px;
+}
